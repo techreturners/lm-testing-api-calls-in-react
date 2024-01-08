@@ -10,7 +10,7 @@ Your application will display the `name` of the first character entry within the
 
 ### Suggested steps: 
 
-1. Create a React app
+1. Fork and clone this repo, and create a new React app within it
 2. Have your React app fetch and display the data specified in the brief
 3. Mock (or "stub") the API response with [msw](https://mswjs.io/docs/getting-started)
 4. Implement a test to check the first person that your mock server returns is rendered as expected.
