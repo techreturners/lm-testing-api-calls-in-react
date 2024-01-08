@@ -26,7 +26,7 @@ Write tests for the following scenarios:
 
   - This exercise is **not** about what your app looks like so don’t worry about styling!
   - You will need to create a React app from scratch and strip out excess boiler plate.
-  - You will need to make an API call (fetch and useEffect 🫂)
+  - You will need to make an API call – think, 🫂 fetch and useEffect 🫂
   - Ensure your [test query](https://testing-library.com/docs/react-testing-library/cheatsheet/#queries) works with async-await
   - Remember to commit little and often to GitHub, and to keep your commit messages nice and descriptive
   - Take time to ensure your README explains how to run your app! 🔥
