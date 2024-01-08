@@ -20,7 +20,7 @@ Your application will display the `name` of the first character entry within the
 Write tests for the following scenarios:
   
   - the API responds with [Status Code 500](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500) (Internal Server Error) your component displays the error message `"🤕 Something went wrong; try again."`
-  - the API response with [Status Code 418](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418) (I’m a tea pot) write another test checking your component displays an error message saying `"🫖 I'm a tea pot, silly."`
+  - the API responds with [Status Code 418](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418) (I’m a tea pot) your component displays an error message saying `"🫖 I'm a tea pot, silly."`
 
 ## 💡Top Tips💡
 
