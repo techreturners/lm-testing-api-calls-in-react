@@ -34,6 +34,7 @@ Write tests for the following scenarios:
 ## Key Resources
 
 - [React Testing Library Documentation](https://testing-library.com/docs/react-testing-library/example-intro#full-example)
+- - [Set up test environment (Vite and Vitest)](https://www.robinwieruch.de/vitest-react-testing-library/)
 - [Mock Service Worker Library](https://mswjs.io/)
 
 ## Creating a React App
