@@ -19,6 +19,5 @@ afterAll(() => server.close());
 test("renders character name", async () => {
   render(<FetchCharacters />);
   const text = await screen.findByText("Luke Skywalker");
-  console.log(text);
   expect(text).toBeInTheDocument();
 });
